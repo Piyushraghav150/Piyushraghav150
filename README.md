@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, MY'Name is Piyush Raghav</h1>
-<h3 align="center">I'AM Software Engineer</h3>
+<h3 align="centre"Computer Science Software Engineering Information Technology</h3>
 
 - 🔭 I’m currently working **Specialisation Full-Stack & Cross Platform Development**
 
