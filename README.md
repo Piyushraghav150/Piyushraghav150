@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, MY'Name is Piyush Raghav</h1>
+<h1 align="center">Piyush Raghav</h1>
 <h3 align="center">Computer Science Software Engineering Information Technology</h3>
 
   **Specialisation Full-Stack & Cross Platform Development**
