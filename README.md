@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Software Engineering.
 I Am a Software Engineer</h3>
 
-  **Specialist In {Software Development TECH LINE}.**
+  **Specialist In {Software Engineering TECH LINE}.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
