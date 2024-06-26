@@ -1,7 +1,7 @@
 <h1 align="center">Piyush Raghav</h1>
 <h3 align="center">Computer Science Software Engineering.</h3>
 
-  **Specialisation Full-Stack & Cross Platform Development**
+  **Specialisation Full-Stack & Cross Platform Development and more than.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
