@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Software Engineering.
 I Am a Software Engineer</h3>
 
-  **Specialisation Full-Stack & Cross Platform Development and more than.**
+  **Specialist In {Software Development}.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
