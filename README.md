@@ -1,4 +1,7 @@
-<h1 align="center">Piyush Raghav</h1>
+<h1 align="center">Hi, my name is
+
+Piyush Raghav</h1>
+<h2 align="center">I have built many industry grade projects from scratch and am armed with many technological skills useful for tech projects.</h2>
 <h3 align="center">Computer Science Software Engineering.
 I Am a Software Engineer</h3>
 
